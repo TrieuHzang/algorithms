@@ -1,5 +1,16 @@
-# algorithms
-LeetCode solutions for practicing algorithms and data structures in C.
+<p align="center">
+  <img src="https://hits.sh/github.com/TrieuHzang/algorithms.svg?label=Repo%20Traffic&color=0e75b6" alt="Repo Traffic">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/language-C-brightgreen" alt="Language">
+  <img src="https://img.shields.io/badge/platform-LeetCode-brightgreen" alt="Platform">
+  <img src="https://img.shields.io/badge/focus-Algorithms%20%7C%20Data%20Structures-brightgreen" alt="Focus">
+</p>
+
+# Algorithms
+
+LeetCode solutions in C focused on algorithms, data structures, and problem solving.
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
@@ -48,3 +59,18 @@ LeetCode solutions for practicing algorithms and data structures in C.
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/TrieuHzang/algorithms/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
+
+## Contact & Support
+
+**Trieu Ha Giang** - Embedded Systems Engineering Student
+
+```text
+Thank you for visiting this repository.
+If you have any questions or feedback about the system design, embedded firmware, or hardware integration, feel free to reach out directly.
+```
+
+**My contact:**
+
+[![Email](https://img.shields.io/badge/Email-trieuhagiang1312%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:trieuhagiang1312@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-TrieuHzang-181717?style=flat&logo=github&logoColor=white)](https://github.com/TrieuHzang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-haazangg-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haazangg/)
