@@ -8,6 +8,7 @@ LeetCode solutions for practicing algorithms and data structures in C.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/TrieuHzang/algorithms/tree/main/0001-two-sum/) | Easy |
 | [0088-merge-sorted-array](https://github.com/TrieuHzang/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/TrieuHzang/algorithms/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,6 +25,7 @@ LeetCode solutions for practicing algorithms and data structures in C.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/TrieuHzang/algorithms/tree/main/0020-valid-parentheses/) | Easy |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/TrieuHzang/algorithms/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
