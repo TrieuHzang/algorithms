@@ -2,12 +2,6 @@
   <img src="https://hits.sh/github.com/TrieuHzang/algorithms.svg?label=Repo%20Traffic&color=0e75b6" alt="Repo Traffic">
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/language-C-brightgreen" alt="Language">
-  <img src="https://img.shields.io/badge/platform-LeetCode-brightgreen" alt="Platform">
-  <img src="https://img.shields.io/badge/focus-Algorithms%20%7C%20Data%20Structures-brightgreen" alt="Focus">
-</p>
-
 # Algorithms
 
 LeetCode solutions in C focused on algorithms, data structures, and problem solving.
