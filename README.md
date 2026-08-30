@@ -35,4 +35,16 @@ LeetCode solutions for practicing algorithms and data structures in C.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/TrieuHzang/algorithms/tree/main/0020-valid-parentheses/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/TrieuHzang/algorithms/tree/main/0002-add-two-numbers/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/TrieuHzang/algorithms/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/TrieuHzang/algorithms/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
