@@ -19,6 +19,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/TrieuHzang/algorithms/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/TrieuHzang/algorithms/tree/main/0013-roman-to-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/TrieuHzang/algorithms/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/TrieuHzang/algorithms/tree/main/0020-valid-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/TrieuHzang/algorithms/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Stack
@@ -49,6 +51,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/TrieuHzang/algorithms/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/TrieuHzang/algorithms/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/TrieuHzang/algorithms/tree/main/0013-roman-to-integer/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
