@@ -48,6 +48,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/TrieuHzang/algorithms/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/TrieuHzang/algorithms/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +59,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/TrieuHzang/algorithms/tree/main/0002-add-two-numbers/) | Medium |
+| [0021-merge-two-sorted-lists](https://github.com/TrieuHzang/algorithms/tree/main/0021-merge-two-sorted-lists/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
