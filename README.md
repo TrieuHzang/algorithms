@@ -16,6 +16,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TrieuHzang/algorithms/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/TrieuHzang/algorithms/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/TrieuHzang/algorithms/tree/main/0035-search-insert-position/) | Easy |
+| [0066-plus-one](https://github.com/TrieuHzang/algorithms/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/TrieuHzang/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/TrieuHzang/algorithms/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/TrieuHzang/algorithms/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -63,6 +64,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0002-add-two-numbers](https://github.com/TrieuHzang/algorithms/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/TrieuHzang/algorithms/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/TrieuHzang/algorithms/tree/main/0013-roman-to-integer/) | Easy |
+| [0066-plus-one](https://github.com/TrieuHzang/algorithms/tree/main/0066-plus-one/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
