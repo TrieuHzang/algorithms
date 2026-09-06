@@ -65,6 +65,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0009-palindrome-number](https://github.com/TrieuHzang/algorithms/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/TrieuHzang/algorithms/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/TrieuHzang/algorithms/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/TrieuHzang/algorithms/tree/main/0069-sqrtx/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -94,6 +95,11 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0035-search-insert-position](https://github.com/TrieuHzang/algorithms/tree/main/0035-search-insert-position/) | Easy |
+| [0069-sqrtx](https://github.com/TrieuHzang/algorithms/tree/main/0069-sqrtx/) | Easy |
+## Newton's Method
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/TrieuHzang/algorithms/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
 
 ## Contact & Support
