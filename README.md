@@ -18,6 +18,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0035-search-insert-position](https://github.com/TrieuHzang/algorithms/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/TrieuHzang/algorithms/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/TrieuHzang/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/TrieuHzang/algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/TrieuHzang/algorithms/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/TrieuHzang/algorithms/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Hash Table
@@ -144,6 +145,10 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0389-find-the-difference](https://github.com/TrieuHzang/algorithms/tree/main/0389-find-the-difference/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/TrieuHzang/algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
 
 ## Contact & Support
