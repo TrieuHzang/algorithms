@@ -25,6 +25,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | ------- | ------- |
 | [0001-two-sum](https://github.com/TrieuHzang/algorithms/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/TrieuHzang/algorithms/tree/main/0013-roman-to-integer/) | Easy |
+| [0383-ransom-note](https://github.com/TrieuHzang/algorithms/tree/main/0383-ransom-note/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -44,6 +45,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0020-valid-parentheses](https://github.com/TrieuHzang/algorithms/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TrieuHzang/algorithms/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/TrieuHzang/algorithms/tree/main/0058-length-of-last-word/) | Easy |
+| [0383-ransom-note](https://github.com/TrieuHzang/algorithms/tree/main/0383-ransom-note/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/TrieuHzang/algorithms/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -126,6 +128,10 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/TrieuHzang/algorithms/tree/main/0100-same-tree/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/TrieuHzang/algorithms/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
 
 ## Contact & Support
