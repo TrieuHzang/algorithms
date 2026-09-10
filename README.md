@@ -17,6 +17,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0027-remove-element](https://github.com/TrieuHzang/algorithms/tree/main/0027-remove-element/) | Easy |
 | [0035-search-insert-position](https://github.com/TrieuHzang/algorithms/tree/main/0035-search-insert-position/) | Easy |
 | [0066-plus-one](https://github.com/TrieuHzang/algorithms/tree/main/0066-plus-one/) | Easy |
+| [0075-sort-colors](https://github.com/TrieuHzang/algorithms/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/TrieuHzang/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/TrieuHzang/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/TrieuHzang/algorithms/tree/main/0268-missing-number/) | Easy |
@@ -40,10 +41,12 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0026-remove-duplicates-from-sorted-array](https://github.com/TrieuHzang/algorithms/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0027-remove-element](https://github.com/TrieuHzang/algorithms/tree/main/0027-remove-element/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TrieuHzang/algorithms/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0075-sort-colors](https://github.com/TrieuHzang/algorithms/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/TrieuHzang/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/TrieuHzang/algorithms/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/TrieuHzang/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/TrieuHzang/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/TrieuHzang/algorithms/tree/main/0268-missing-number/) | Easy |
@@ -166,6 +169,14 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TrieuHzang/algorithms/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/TrieuHzang/algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/TrieuHzang/algorithms/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/TrieuHzang/algorithms/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
 
 ## Contact & Support
