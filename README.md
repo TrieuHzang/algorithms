@@ -19,6 +19,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0066-plus-one](https://github.com/TrieuHzang/algorithms/tree/main/0066-plus-one/) | Easy |
 | [0075-sort-colors](https://github.com/TrieuHzang/algorithms/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/TrieuHzang/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
+| [0136-single-number](https://github.com/TrieuHzang/algorithms/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/TrieuHzang/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/TrieuHzang/algorithms/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/TrieuHzang/algorithms/tree/main/0414-third-maximum-number/) | Easy |
@@ -162,6 +163,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0136-single-number](https://github.com/TrieuHzang/algorithms/tree/main/0136-single-number/) | Easy |
 | [0268-missing-number](https://github.com/TrieuHzang/algorithms/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/TrieuHzang/algorithms/tree/main/0389-find-the-difference/) | Easy |
 ## Sliding Window
