@@ -81,6 +81,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0021-merge-two-sorted-lists](https://github.com/TrieuHzang/algorithms/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TrieuHzang/algorithms/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/TrieuHzang/algorithms/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/TrieuHzang/algorithms/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/TrieuHzang/algorithms/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -98,6 +99,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0002-add-two-numbers](https://github.com/TrieuHzang/algorithms/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/TrieuHzang/algorithms/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/TrieuHzang/algorithms/tree/main/0203-remove-linked-list-elements/) | Easy |
+| [0206-reverse-linked-list](https://github.com/TrieuHzang/algorithms/tree/main/0206-reverse-linked-list/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
