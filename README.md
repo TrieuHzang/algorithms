@@ -33,6 +33,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0003-longest-substring-without-repeating-characters](https://github.com/TrieuHzang/algorithms/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/TrieuHzang/algorithms/tree/main/0013-roman-to-integer/) | Easy |
 | [0217-contains-duplicate](https://github.com/TrieuHzang/algorithms/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/TrieuHzang/algorithms/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/TrieuHzang/algorithms/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/TrieuHzang/algorithms/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/TrieuHzang/algorithms/tree/main/0389-find-the-difference/) | Easy |
@@ -50,6 +51,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0075-sort-colors](https://github.com/TrieuHzang/algorithms/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/TrieuHzang/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/TrieuHzang/algorithms/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/TrieuHzang/algorithms/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/TrieuHzang/algorithms/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/TrieuHzang/algorithms/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/TrieuHzang/algorithms/tree/main/0414-third-maximum-number/) | Easy |
@@ -62,6 +64,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0020-valid-parentheses](https://github.com/TrieuHzang/algorithms/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TrieuHzang/algorithms/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/TrieuHzang/algorithms/tree/main/0058-length-of-last-word/) | Easy |
+| [0242-valid-anagram](https://github.com/TrieuHzang/algorithms/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/TrieuHzang/algorithms/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/TrieuHzang/algorithms/tree/main/0389-find-the-difference/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/TrieuHzang/algorithms/tree/main/0657-robot-return-to-origin/) | Easy |
