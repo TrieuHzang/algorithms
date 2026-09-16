@@ -45,6 +45,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TrieuHzang/algorithms/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/TrieuHzang/algorithms/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/TrieuHzang/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
+| [0344-reverse-string](https://github.com/TrieuHzang/algorithms/tree/main/0344-reverse-string/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -65,6 +66,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TrieuHzang/algorithms/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/TrieuHzang/algorithms/tree/main/0058-length-of-last-word/) | Easy |
 | [0242-valid-anagram](https://github.com/TrieuHzang/algorithms/tree/main/0242-valid-anagram/) | Easy |
+| [0344-reverse-string](https://github.com/TrieuHzang/algorithms/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/TrieuHzang/algorithms/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/TrieuHzang/algorithms/tree/main/0389-find-the-difference/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/TrieuHzang/algorithms/tree/main/0657-robot-return-to-origin/) | Easy |
