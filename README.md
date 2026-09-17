@@ -22,6 +22,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0136-single-number](https://github.com/TrieuHzang/algorithms/tree/main/0136-single-number/) | Easy |
 | [0217-contains-duplicate](https://github.com/TrieuHzang/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/TrieuHzang/algorithms/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/TrieuHzang/algorithms/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/TrieuHzang/algorithms/tree/main/0414-third-maximum-number/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/TrieuHzang/algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/TrieuHzang/algorithms/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -35,6 +36,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0217-contains-duplicate](https://github.com/TrieuHzang/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/TrieuHzang/algorithms/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/TrieuHzang/algorithms/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/TrieuHzang/algorithms/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/TrieuHzang/algorithms/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/TrieuHzang/algorithms/tree/main/0389-find-the-difference/) | Easy |
 ## Two Pointers
@@ -46,6 +48,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0075-sort-colors](https://github.com/TrieuHzang/algorithms/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/TrieuHzang/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0344-reverse-string](https://github.com/TrieuHzang/algorithms/tree/main/0344-reverse-string/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/TrieuHzang/algorithms/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -54,6 +57,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0217-contains-duplicate](https://github.com/TrieuHzang/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/TrieuHzang/algorithms/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/TrieuHzang/algorithms/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/TrieuHzang/algorithms/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/TrieuHzang/algorithms/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/TrieuHzang/algorithms/tree/main/0414-third-maximum-number/) | Easy |
 ## String
@@ -131,6 +135,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0035-search-insert-position](https://github.com/TrieuHzang/algorithms/tree/main/0035-search-insert-position/) | Easy |
 | [0069-sqrtx](https://github.com/TrieuHzang/algorithms/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/TrieuHzang/algorithms/tree/main/0268-missing-number/) | Easy |
+| [0349-intersection-of-two-arrays](https://github.com/TrieuHzang/algorithms/tree/main/0349-intersection-of-two-arrays/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
 | ------- | ------- |
