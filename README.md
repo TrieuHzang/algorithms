@@ -215,7 +215,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 
 ```text
 Thank you for visiting this repository.
-If you have any questions or feedback about the system design, embedded firmware, or hardware integration, feel free to reach out directly.
+If you have any questions or feedback, feel free to reach out directly.
 ```
 
 **My contact:**
