@@ -76,6 +76,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0020-valid-parentheses](https://github.com/TrieuHzang/algorithms/tree/main/0020-valid-parentheses/) | Easy |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TrieuHzang/algorithms/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0058-length-of-last-word](https://github.com/TrieuHzang/algorithms/tree/main/0058-length-of-last-word/) | Easy |
+| [0067-add-binary](https://github.com/TrieuHzang/algorithms/tree/main/0067-add-binary/) | Easy |
 | [0125-valid-palindrome](https://github.com/TrieuHzang/algorithms/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/TrieuHzang/algorithms/tree/main/0242-valid-anagram/) | Easy |
 | [0344-reverse-string](https://github.com/TrieuHzang/algorithms/tree/main/0344-reverse-string/) | Easy |
@@ -111,6 +112,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0009-palindrome-number](https://github.com/TrieuHzang/algorithms/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/TrieuHzang/algorithms/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/TrieuHzang/algorithms/tree/main/0066-plus-one/) | Easy |
+| [0067-add-binary](https://github.com/TrieuHzang/algorithms/tree/main/0067-add-binary/) | Easy |
 | [0069-sqrtx](https://github.com/TrieuHzang/algorithms/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/TrieuHzang/algorithms/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/TrieuHzang/algorithms/tree/main/0268-missing-number/) | Easy |
@@ -184,10 +186,12 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/TrieuHzang/algorithms/tree/main/0067-add-binary/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/TrieuHzang/algorithms/tree/main/0657-robot-return-to-origin/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0067-add-binary](https://github.com/TrieuHzang/algorithms/tree/main/0067-add-binary/) | Easy |
 | [0136-single-number](https://github.com/TrieuHzang/algorithms/tree/main/0136-single-number/) | Easy |
 | [0190-reverse-bits](https://github.com/TrieuHzang/algorithms/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/TrieuHzang/algorithms/tree/main/0191-number-of-1-bits/) | Easy |
