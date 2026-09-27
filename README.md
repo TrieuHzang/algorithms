@@ -54,6 +54,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0125-valid-palindrome](https://github.com/TrieuHzang/algorithms/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/TrieuHzang/algorithms/tree/main/0344-reverse-string/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/TrieuHzang/algorithms/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/TrieuHzang/algorithms/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/TrieuHzang/algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -108,6 +109,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0203-remove-linked-list-elements](https://github.com/TrieuHzang/algorithms/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/TrieuHzang/algorithms/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/TrieuHzang/algorithms/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/TrieuHzang/algorithms/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
