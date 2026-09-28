@@ -176,10 +176,12 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/TrieuHzang/algorithms/tree/main/0100-same-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/TrieuHzang/algorithms/tree/main/0547-number-of-provinces/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/TrieuHzang/algorithms/tree/main/0100-same-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/TrieuHzang/algorithms/tree/main/0547-number-of-provinces/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,6 +222,14 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | ------- | ------- |
 | [0190-reverse-bits](https://github.com/TrieuHzang/algorithms/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/TrieuHzang/algorithms/tree/main/0191-number-of-1-bits/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/TrieuHzang/algorithms/tree/main/0547-number-of-provinces/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0547-number-of-provinces](https://github.com/TrieuHzang/algorithms/tree/main/0547-number-of-provinces/) | Medium |
 <!---LeetCode Topics End-->
 
 ## Contact & Support
