@@ -20,6 +20,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0075-sort-colors](https://github.com/TrieuHzang/algorithms/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/TrieuHzang/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/TrieuHzang/algorithms/tree/main/0136-single-number/) | Easy |
+| [0169-majority-element](https://github.com/TrieuHzang/algorithms/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/TrieuHzang/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/TrieuHzang/algorithms/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/TrieuHzang/algorithms/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -36,6 +37,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0001-two-sum](https://github.com/TrieuHzang/algorithms/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TrieuHzang/algorithms/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/TrieuHzang/algorithms/tree/main/0013-roman-to-integer/) | Easy |
+| [0169-majority-element](https://github.com/TrieuHzang/algorithms/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/TrieuHzang/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/TrieuHzang/algorithms/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/TrieuHzang/algorithms/tree/main/0268-missing-number/) | Easy |
@@ -62,6 +64,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/TrieuHzang/algorithms/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/TrieuHzang/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/TrieuHzang/algorithms/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/TrieuHzang/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/TrieuHzang/algorithms/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/TrieuHzang/algorithms/tree/main/0268-missing-number/) | Easy |
@@ -196,6 +199,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/TrieuHzang/algorithms/tree/main/0169-majority-element/) | Easy |
 | [0383-ransom-note](https://github.com/TrieuHzang/algorithms/tree/main/0383-ransom-note/) | Easy |
 | [1370-increasing-decreasing-string](https://github.com/TrieuHzang/algorithms/tree/main/1370-increasing-decreasing-string/) | Easy |
 ## Simulation
@@ -228,6 +232,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/TrieuHzang/algorithms/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/TrieuHzang/algorithms/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/TrieuHzang/algorithms/tree/main/0191-number-of-1-bits/) | Easy |
 ## Union-Find
@@ -242,6 +247,10 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TrieuHzang/algorithms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/TrieuHzang/algorithms/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
 
 ## Contact & Support
