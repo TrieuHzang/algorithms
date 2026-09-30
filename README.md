@@ -126,6 +126,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0069-sqrtx](https://github.com/TrieuHzang/algorithms/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/TrieuHzang/algorithms/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/TrieuHzang/algorithms/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/TrieuHzang/algorithms/tree/main/0367-valid-perfect-square/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -160,6 +161,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0069-sqrtx](https://github.com/TrieuHzang/algorithms/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/TrieuHzang/algorithms/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/TrieuHzang/algorithms/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0367-valid-perfect-square](https://github.com/TrieuHzang/algorithms/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/TrieuHzang/algorithms/tree/main/0704-binary-search/) | Easy |
 ## Newton's Method
 | Problem Name | Difficulty |
