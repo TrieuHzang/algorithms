@@ -36,6 +36,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | ------- | ------- |
 | [0001-two-sum](https://github.com/TrieuHzang/algorithms/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TrieuHzang/algorithms/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/TrieuHzang/algorithms/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/TrieuHzang/algorithms/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/TrieuHzang/algorithms/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/TrieuHzang/algorithms/tree/main/0217-contains-duplicate/) | Easy |
@@ -76,6 +77,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/TrieuHzang/algorithms/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0012-integer-to-roman](https://github.com/TrieuHzang/algorithms/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/TrieuHzang/algorithms/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/TrieuHzang/algorithms/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/TrieuHzang/algorithms/tree/main/0020-valid-parentheses/) | Easy |
@@ -123,6 +125,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/TrieuHzang/algorithms/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/TrieuHzang/algorithms/tree/main/0009-palindrome-number/) | Easy |
+| [0012-integer-to-roman](https://github.com/TrieuHzang/algorithms/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/TrieuHzang/algorithms/tree/main/0013-roman-to-integer/) | Easy |
 | [0066-plus-one](https://github.com/TrieuHzang/algorithms/tree/main/0066-plus-one/) | Easy |
 | [0067-add-binary](https://github.com/TrieuHzang/algorithms/tree/main/0067-add-binary/) | Easy |
