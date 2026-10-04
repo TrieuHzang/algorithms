@@ -90,6 +90,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0383-ransom-note](https://github.com/TrieuHzang/algorithms/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/TrieuHzang/algorithms/tree/main/0389-find-the-difference/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/TrieuHzang/algorithms/tree/main/0657-robot-return-to-origin/) | Easy |
+| [0796-rotate-string](https://github.com/TrieuHzang/algorithms/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TrieuHzang/algorithms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/TrieuHzang/algorithms/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/TrieuHzang/algorithms/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -148,6 +149,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/TrieuHzang/algorithms/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0796-rotate-string](https://github.com/TrieuHzang/algorithms/tree/main/0796-rotate-string/) | Easy |
 ## Z Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
