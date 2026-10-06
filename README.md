@@ -26,6 +26,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0349-intersection-of-two-arrays](https://github.com/TrieuHzang/algorithms/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/TrieuHzang/algorithms/tree/main/0414-third-maximum-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/TrieuHzang/algorithms/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
+| [0539-minimum-time-difference](https://github.com/TrieuHzang/algorithms/tree/main/0539-minimum-time-difference/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/TrieuHzang/algorithms/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/TrieuHzang/algorithms/tree/main/0704-binary-search/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/TrieuHzang/algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -72,6 +73,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0349-intersection-of-two-arrays](https://github.com/TrieuHzang/algorithms/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0389-find-the-difference](https://github.com/TrieuHzang/algorithms/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/TrieuHzang/algorithms/tree/main/0414-third-maximum-number/) | Easy |
+| [0539-minimum-time-difference](https://github.com/TrieuHzang/algorithms/tree/main/0539-minimum-time-difference/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/TrieuHzang/algorithms/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -89,6 +91,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0344-reverse-string](https://github.com/TrieuHzang/algorithms/tree/main/0344-reverse-string/) | Easy |
 | [0383-ransom-note](https://github.com/TrieuHzang/algorithms/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/TrieuHzang/algorithms/tree/main/0389-find-the-difference/) | Easy |
+| [0539-minimum-time-difference](https://github.com/TrieuHzang/algorithms/tree/main/0539-minimum-time-difference/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/TrieuHzang/algorithms/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/TrieuHzang/algorithms/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TrieuHzang/algorithms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -135,6 +138,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0070-climbing-stairs](https://github.com/TrieuHzang/algorithms/tree/main/0070-climbing-stairs/) | Easy |
 | [0268-missing-number](https://github.com/TrieuHzang/algorithms/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/TrieuHzang/algorithms/tree/main/0367-valid-perfect-square/) | Easy |
+| [0539-minimum-time-difference](https://github.com/TrieuHzang/algorithms/tree/main/0539-minimum-time-difference/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
