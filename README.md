@@ -119,6 +119,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/TrieuHzang/algorithms/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/TrieuHzang/algorithms/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0023-merge-k-sorted-lists](https://github.com/TrieuHzang/algorithms/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0024-swap-nodes-in-pairs](https://github.com/TrieuHzang/algorithms/tree/main/0024-swap-nodes-in-pairs/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/TrieuHzang/algorithms/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/TrieuHzang/algorithms/tree/main/0203-remove-linked-list-elements/) | Easy |
@@ -243,6 +244,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TrieuHzang/algorithms/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0169-majority-element](https://github.com/TrieuHzang/algorithms/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/TrieuHzang/algorithms/tree/main/0190-reverse-bits/) | Easy |
 | [0191-number-of-1-bits](https://github.com/TrieuHzang/algorithms/tree/main/0191-number-of-1-bits/) | Easy |
@@ -262,6 +264,18 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/TrieuHzang/algorithms/tree/main/0169-majority-element/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TrieuHzang/algorithms/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TrieuHzang/algorithms/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Tournament Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/TrieuHzang/algorithms/tree/main/0023-merge-k-sorted-lists/) | Hard |
 <!---LeetCode Topics End-->
 
 ## Contact & Support
