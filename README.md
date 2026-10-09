@@ -276,6 +276,10 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/TrieuHzang/algorithms/tree/main/0023-merge-k-sorted-lists/) | Hard |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/TrieuHzang/algorithms/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
 
 ## Contact & Support
