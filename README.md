@@ -288,6 +288,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0577-employee-bonus](https://github.com/TrieuHzang/algorithms/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/TrieuHzang/algorithms/tree/main/0584-find-customer-referee/) | Easy |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/TrieuHzang/algorithms/tree/main/0586-customer-placing-the-largest-number-of-orders/) | Easy |
+| [0610-triangle-judgement](https://github.com/TrieuHzang/algorithms/tree/main/0610-triangle-judgement/) | Easy |
 <!---LeetCode Topics End-->
 
 ## Contact & Support
