@@ -6,6 +6,7 @@ SELECT
     MAX(CASE WHEN month = 'Mar' THEN revenue END) AS Mar_Revenue,
     MAX(CASE WHEN month = 'Apr' THEN revenue END) AS Apr_Revenue,
     MAX(CASE WHEN month = 'May' THEN revenue END) AS May_Revenue,
+    
     MAX(CASE WHEN month = 'Jun' THEN revenue END) AS Jun_Revenue,
     MAX(CASE WHEN month = 'Jul' THEN revenue END) AS Jul_Revenue,
     MAX(CASE WHEN month = 'Aug' THEN revenue END) AS Aug_Revenue,
