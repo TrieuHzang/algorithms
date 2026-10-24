@@ -292,6 +292,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0610-triangle-judgement](https://github.com/TrieuHzang/algorithms/tree/main/0610-triangle-judgement/) | Easy |
 | [1075-project-employees-i](https://github.com/TrieuHzang/algorithms/tree/main/1075-project-employees-i/) | Easy |
 | [1179-reformat-department-table](https://github.com/TrieuHzang/algorithms/tree/main/1179-reformat-department-table/) | Easy |
+| [1484-group-sold-products-by-the-date](https://github.com/TrieuHzang/algorithms/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 <!---LeetCode Topics End-->
 
 ## Contact & Support
