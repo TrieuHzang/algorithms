@@ -297,6 +297,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [1280-students-and-examinations](https://github.com/TrieuHzang/algorithms/tree/main/1280-students-and-examinations/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/TrieuHzang/algorithms/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/TrieuHzang/algorithms/tree/main/1587-bank-account-summary-ii/) | Easy |
+| [1683-invalid-tweets](https://github.com/TrieuHzang/algorithms/tree/main/1683-invalid-tweets/) | Easy |
 <!---LeetCode Topics End-->
 
 ## Contact & Support
