@@ -295,6 +295,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [1075-project-employees-i](https://github.com/TrieuHzang/algorithms/tree/main/1075-project-employees-i/) | Easy |
 | [1179-reformat-department-table](https://github.com/TrieuHzang/algorithms/tree/main/1179-reformat-department-table/) | Easy |
 | [1280-students-and-examinations](https://github.com/TrieuHzang/algorithms/tree/main/1280-students-and-examinations/) | Easy |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/TrieuHzang/algorithms/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/TrieuHzang/algorithms/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/TrieuHzang/algorithms/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1683-invalid-tweets](https://github.com/TrieuHzang/algorithms/tree/main/1683-invalid-tweets/) | Easy |
