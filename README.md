@@ -295,6 +295,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0626-exchange-seats](https://github.com/TrieuHzang/algorithms/tree/main/0626-exchange-seats/) | Medium |
 | [1075-project-employees-i](https://github.com/TrieuHzang/algorithms/tree/main/1075-project-employees-i/) | Easy |
 | [1179-reformat-department-table](https://github.com/TrieuHzang/algorithms/tree/main/1179-reformat-department-table/) | Easy |
+| [1204-last-person-to-fit-in-the-bus](https://github.com/TrieuHzang/algorithms/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1280-students-and-examinations](https://github.com/TrieuHzang/algorithms/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/TrieuHzang/algorithms/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
 | [1484-group-sold-products-by-the-date](https://github.com/TrieuHzang/algorithms/tree/main/1484-group-sold-products-by-the-date/) | Easy |
