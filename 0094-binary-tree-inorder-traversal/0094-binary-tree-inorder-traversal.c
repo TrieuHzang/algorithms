@@ -20,7 +20,6 @@ int* inorderTraversal(struct TreeNode* root, int* returnSize) {
 
     while (curr != NULL || top > 0) {
 
-        // 1. Đi hết về bên trái
         while (curr != NULL) {
             stack[top++] = curr;
             curr = curr->left;
