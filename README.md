@@ -104,6 +104,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/TrieuHzang/algorithms/tree/main/0020-valid-parentheses/) | Easy |
+| [0094-binary-tree-inorder-traversal](https://github.com/TrieuHzang/algorithms/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/TrieuHzang/algorithms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/TrieuHzang/algorithms/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/TrieuHzang/algorithms/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
@@ -193,10 +194,12 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TrieuHzang/algorithms/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/TrieuHzang/algorithms/tree/main/0100-same-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TrieuHzang/algorithms/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/TrieuHzang/algorithms/tree/main/0100-same-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/TrieuHzang/algorithms/tree/main/0547-number-of-provinces/) | Medium |
 ## Breadth-First Search
@@ -207,6 +210,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/TrieuHzang/algorithms/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/TrieuHzang/algorithms/tree/main/0100-same-tree/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
