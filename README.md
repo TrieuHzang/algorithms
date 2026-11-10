@@ -309,6 +309,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [1741-find-total-time-spent-by-each-employee](https://github.com/TrieuHzang/algorithms/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/TrieuHzang/algorithms/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/TrieuHzang/algorithms/tree/main/1789-primary-department-for-each-employee/) | Easy |
+| [1795-rearrange-products-table](https://github.com/TrieuHzang/algorithms/tree/main/1795-rearrange-products-table/) | Easy |
 | [1907-count-salary-categories](https://github.com/TrieuHzang/algorithms/tree/main/1907-count-salary-categories/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/TrieuHzang/algorithms/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->
