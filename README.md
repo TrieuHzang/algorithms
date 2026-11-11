@@ -302,6 +302,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [1204-last-person-to-fit-in-the-bus](https://github.com/TrieuHzang/algorithms/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1280-students-and-examinations](https://github.com/TrieuHzang/algorithms/tree/main/1280-students-and-examinations/) | Easy |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/TrieuHzang/algorithms/tree/main/1327-list-the-products-ordered-in-a-period/) | Easy |
+| [1393-capital-gainloss](https://github.com/TrieuHzang/algorithms/tree/main/1393-capital-gainloss/) | Medium |
 | [1484-group-sold-products-by-the-date](https://github.com/TrieuHzang/algorithms/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/TrieuHzang/algorithms/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1683-invalid-tweets](https://github.com/TrieuHzang/algorithms/tree/main/1683-invalid-tweets/) | Easy |
