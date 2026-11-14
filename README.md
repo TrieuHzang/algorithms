@@ -307,6 +307,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [1587-bank-account-summary-ii](https://github.com/TrieuHzang/algorithms/tree/main/1587-bank-account-summary-ii/) | Easy |
 | [1683-invalid-tweets](https://github.com/TrieuHzang/algorithms/tree/main/1683-invalid-tweets/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/TrieuHzang/algorithms/tree/main/1693-daily-leads-and-partners/) | Easy |
+| [1729-find-followers-count](https://github.com/TrieuHzang/algorithms/tree/main/1729-find-followers-count/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/TrieuHzang/algorithms/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/TrieuHzang/algorithms/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 | [1789-primary-department-for-each-employee](https://github.com/TrieuHzang/algorithms/tree/main/1789-primary-department-for-each-employee/) | Easy |
