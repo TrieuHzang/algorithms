@@ -297,6 +297,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0608-tree-node](https://github.com/TrieuHzang/algorithms/tree/main/0608-tree-node/) | Medium |
 | [0610-triangle-judgement](https://github.com/TrieuHzang/algorithms/tree/main/0610-triangle-judgement/) | Easy |
 | [0626-exchange-seats](https://github.com/TrieuHzang/algorithms/tree/main/0626-exchange-seats/) | Medium |
+| [1045-customers-who-bought-all-products](https://github.com/TrieuHzang/algorithms/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1075-project-employees-i](https://github.com/TrieuHzang/algorithms/tree/main/1075-project-employees-i/) | Easy |
 | [1179-reformat-department-table](https://github.com/TrieuHzang/algorithms/tree/main/1179-reformat-department-table/) | Easy |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/TrieuHzang/algorithms/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
