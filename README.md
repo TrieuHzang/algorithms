@@ -300,6 +300,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [1045-customers-who-bought-all-products](https://github.com/TrieuHzang/algorithms/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/TrieuHzang/algorithms/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/TrieuHzang/algorithms/tree/main/1075-project-employees-i/) | Easy |
+| [1148-article-views-i](https://github.com/TrieuHzang/algorithms/tree/main/1148-article-views-i/) | Easy |
 | [1179-reformat-department-table](https://github.com/TrieuHzang/algorithms/tree/main/1179-reformat-department-table/) | Easy |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/TrieuHzang/algorithms/tree/main/1204-last-person-to-fit-in-the-bus/) | Medium |
 | [1280-students-and-examinations](https://github.com/TrieuHzang/algorithms/tree/main/1280-students-and-examinations/) | Easy |
