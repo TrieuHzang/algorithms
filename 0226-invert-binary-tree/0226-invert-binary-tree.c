@@ -15,6 +15,5 @@ struct TreeNode* invertTree(struct TreeNode* root) {
     root->right = temp;
     invertTree(root->left);
     invertTree(root->right);
-
     return root;
 }
