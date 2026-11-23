@@ -196,22 +196,26 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TrieuHzang/algorithms/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/TrieuHzang/algorithms/tree/main/0100-same-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/TrieuHzang/algorithms/tree/main/0226-invert-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TrieuHzang/algorithms/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/TrieuHzang/algorithms/tree/main/0100-same-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/TrieuHzang/algorithms/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/TrieuHzang/algorithms/tree/main/0547-number-of-provinces/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/TrieuHzang/algorithms/tree/main/0100-same-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/TrieuHzang/algorithms/tree/main/0226-invert-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/TrieuHzang/algorithms/tree/main/0547-number-of-provinces/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/TrieuHzang/algorithms/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/TrieuHzang/algorithms/tree/main/0100-same-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/TrieuHzang/algorithms/tree/main/0226-invert-binary-tree/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
