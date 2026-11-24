@@ -21,6 +21,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0088-merge-sorted-array](https://github.com/TrieuHzang/algorithms/tree/main/0088-merge-sorted-array/) | Easy |
 | [0136-single-number](https://github.com/TrieuHzang/algorithms/tree/main/0136-single-number/) | Easy |
 | [0169-majority-element](https://github.com/TrieuHzang/algorithms/tree/main/0169-majority-element/) | Easy |
+| [0216-combination-sum-iii](https://github.com/TrieuHzang/algorithms/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/TrieuHzang/algorithms/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/TrieuHzang/algorithms/tree/main/0268-missing-number/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/TrieuHzang/algorithms/tree/main/0349-intersection-of-two-arrays/) | Easy |
@@ -324,6 +325,10 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [1907-count-salary-categories](https://github.com/TrieuHzang/algorithms/tree/main/1907-count-salary-categories/) | Medium |
 | [1934-confirmation-rate](https://github.com/TrieuHzang/algorithms/tree/main/1934-confirmation-rate/) | Medium |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/TrieuHzang/algorithms/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0216-combination-sum-iii](https://github.com/TrieuHzang/algorithms/tree/main/0216-combination-sum-iii/) | Medium |
 <!---LeetCode Topics End-->
 
 ## Contact & Support
