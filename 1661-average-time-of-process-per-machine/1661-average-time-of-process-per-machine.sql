@@ -1,5 +1,4 @@
 # Write your MySQL query statement below
-
 SELECT 
     a.machine_id,
     ROUND(AVG(b.timestamp - a.timestamp), 3) AS processing_time
