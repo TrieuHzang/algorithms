@@ -314,6 +314,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [1393-capital-gainloss](https://github.com/TrieuHzang/algorithms/tree/main/1393-capital-gainloss/) | Medium |
 | [1484-group-sold-products-by-the-date](https://github.com/TrieuHzang/algorithms/tree/main/1484-group-sold-products-by-the-date/) | Easy |
 | [1587-bank-account-summary-ii](https://github.com/TrieuHzang/algorithms/tree/main/1587-bank-account-summary-ii/) | Easy |
+| [1661-average-time-of-process-per-machine](https://github.com/TrieuHzang/algorithms/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1683-invalid-tweets](https://github.com/TrieuHzang/algorithms/tree/main/1683-invalid-tweets/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/TrieuHzang/algorithms/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1729-find-followers-count](https://github.com/TrieuHzang/algorithms/tree/main/1729-find-followers-count/) | Easy |
