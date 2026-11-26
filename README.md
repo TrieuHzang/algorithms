@@ -293,6 +293,7 @@ LeetCode solutions in C focused on algorithms, data structures, and problem solv
 | [0181-employees-earning-more-than-their-managers](https://github.com/TrieuHzang/algorithms/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/TrieuHzang/algorithms/tree/main/0182-duplicate-emails/) | Easy |
 | [0183-customers-who-never-order](https://github.com/TrieuHzang/algorithms/tree/main/0183-customers-who-never-order/) | Easy |
+| [0184-department-highest-salary](https://github.com/TrieuHzang/algorithms/tree/main/0184-department-highest-salary/) | Medium |
 | [0511-game-play-analysis-i](https://github.com/TrieuHzang/algorithms/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/TrieuHzang/algorithms/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/TrieuHzang/algorithms/tree/main/0584-find-customer-referee/) | Easy |
