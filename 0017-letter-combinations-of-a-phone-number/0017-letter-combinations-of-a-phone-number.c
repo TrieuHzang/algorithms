@@ -8,8 +8,6 @@ void backtrack(char* digits, int index, int n,
         "", "", "abc", "def", "ghi",
         "jkl", "mno", "pqrs", "tuv", "wxyz"
     };
-
-    // Đã tạo được một tổ hợp hoàn chỉnh
     if (index == n) {
         current[n] = '\0';
 
